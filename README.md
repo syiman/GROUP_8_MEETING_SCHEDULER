@@ -10,6 +10,6 @@ Project description (TBD)
 ## Team Members
 
 * Kyungjae Lee
-* Chris Fetcher
+* Chris Fechter
 * Eric M. Sung
 * Bailey J. Knight
