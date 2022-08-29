@@ -14,6 +14,7 @@
 * Confirmed all members have selected the correct team on Canvas
 * Confirmed all members have joind the github project repository
     - Need to invite Professor Acharya to the repository
+        - Invitation sent (08/29)
 * Fixed topic: Meeting scheduler
 * Discussed the overall concept of the application
     - Necessary components: Input file (XML, JSON), parser, processor, GUI
