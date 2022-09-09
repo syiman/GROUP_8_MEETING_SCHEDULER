@@ -1,4 +1,4 @@
-# uah-cs321-project
+# Group 8 Meeting Scheduler
 
 This is a project repository for the university course **CS321 - Object Oriented
 Programming in Java (Fall 2022)**.
@@ -11,5 +11,7 @@ Project description (TBD)
 
 * Bailey J. Knight
 * Christopher Fechter
-* Eric M. Sung
+* Eric Sung
 * Kyungjae Lee
+
+## [Minutes of Meeting](https://docs.google.com/document/d/1ypVhYuDS7_s262KxE2w-8nPcPt8-Sfypk78AmCvdbGA/edit?usp=sharing)
